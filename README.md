@@ -13,7 +13,7 @@
 ## 📌 Избранные проекты
 | Проект | Описание | Стек |
 |---|---|---|
-| [Mika](https://github.com/BitmofL/mika) | Голосовой ассистент управления умным домом с офлайн-распознаванием речи (диплом) | Python, PyQt6, Vosk, Yandex IoT API |
+| [Mika](https://github.com/BitmofL/Mika-desktop) | Голосовой ассистент управления умным домом с офлайн-распознаванием речи (диплом) | Python, PyQt6, Vosk, Yandex IoT API |
 | [SportStore](https://github.com/BitmofL/SportStore) | Магазин спортивных товаров, роли, фильтры, CRUD + unit-тесты | C#, WPF, EF Core, SQL Server |
 | [Comfort](https://github.com/BitmofL/comfort) | Подсистема управления продукцией и цехами (демоэкзамен) | C#, WinForms, MS SQL |
 | [ИС Склад](https://github.com/BitmofL/is-sklad) | Информационная система складского учёта (+ UML/DFD/ТЗ) | C#, WinForms, ADO.NET, SQL Server |
